@@ -1,5 +1,9 @@
 # DataVisulization
 
+In this notebook, I will be showing you how to use visulization to analyse data in Python using various packages.
+
+
+
 
 
 ## About Datasets:
