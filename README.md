@@ -1,6 +1,6 @@
-# DataVisulization
+# DataVisualization
 
-In this notebook, I will be showing you how to use visulization to analyse data in Python using various packages.
+In this notebook, I will be showing you how to use visualization to analyse data in Python using Libraries.
 
 
 
